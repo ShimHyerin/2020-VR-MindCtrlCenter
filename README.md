@@ -7,3 +7,6 @@ Project Introduction
 
 Play link
 - http://dochii.com/2020vr/final/01/
+
+Play Video
+- https://youtu.be/1aw-2DhlYp8
